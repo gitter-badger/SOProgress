@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>26415EAF-B475-48EE-AB8F-67DB123A7597</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SOProgress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94805D6C-E366-45AC-A478-B45F936D3908</key>
+		<string>ssh://github.com/morizotter/SOProgress.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SOProgress.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94805D6C-E366-45AC-A478-B45F936D3908</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/morizotter/SOProgress.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94805D6C-E366-45AC-A478-B45F936D3908</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94805D6C-E366-45AC-A478-B45F936D3908</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SOProgress</string>
+		</dict>
+	</array>
+</dict>
+</plist>
